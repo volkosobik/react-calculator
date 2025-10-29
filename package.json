@@ -3,7 +3,7 @@
   "private": false,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "volkosobik.github.io/reactg-calculator",
+  "homepage": "volkosobik.github.io/react-calculator",
   "scripts": {
     "dev": "vite",
     "predeploy": "vite build --outDir build",
