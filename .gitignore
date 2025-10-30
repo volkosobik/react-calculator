@@ -1,6 +1,5 @@
 node_modules/
 .idea/
 eslint.config.js
-README.md
-vite.config.js
+README.mdvite.config.js
 dist/
